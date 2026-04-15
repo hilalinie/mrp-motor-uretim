@@ -24,6 +24,4 @@ En kritik temin süresi: Enjektör (F-001) — 5 hafta
 EOQ hesabı: sipariş maliyeti 500₺, elde tutma maliyeti 2₺/adet/hafta
 %95 hizmet seviyesi için Z = 1.65
 
-Kullanılan Araçlar
-
-Microsoft Excel
+Kullanılan Araçlar — Microsoft Excel
